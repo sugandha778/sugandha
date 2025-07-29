@@ -1,5 +1,4 @@
 
-//* THIS IS TEST */
 
 def add(a,b):
   return a+b
